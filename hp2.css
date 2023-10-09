@@ -11,14 +11,14 @@ body{
 }
 nav{
 	background: #0082e6;
-	height: 80px;
-	width: 100%;
+	height: 800px;
+	width: 200%;
 }
 .logo{
 	color: white;
-	font-size: 35px;
+	font-size: 40px;
 	line-height: 80px;
-	padding: 0 100px;
+	padding: 0 200px;
 	font-weight: bold;
 }
 nav ul{
